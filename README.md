@@ -23,9 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video controls>
-  <source src="walkthrough_video.mp4" type="video/mp4">
-</video>
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with [CloudCovert](https://cloudconvert.com/mov-to-gif)
 
 ## Notes
 
